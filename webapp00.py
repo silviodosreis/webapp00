@@ -22,7 +22,7 @@ st.subheader("semana da engenharia")
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
 
-Divisor()
+Divisor("engenharia eletrica")
     
 coluna1 = Colunas(3)
 with coluna1[0]:
