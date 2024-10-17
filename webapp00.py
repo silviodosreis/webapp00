@@ -14,7 +14,7 @@ Configurar_Pagina("Exemplo 1",
 st.title("MEU 1º WEB APP STREAMLIT")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Cabeçalho")
+st.header("em busca da programação")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("semana da engenharia")
